@@ -7,10 +7,6 @@ I'm making a the same projects using React with some small additions in some of 
 This project in particular uses an implementation of redux in react and I tried demonstrating it in the easiest way possible!
 Feel free to leave comments or make pull requests.
 
-# Demo
-
-## [Live demo here](http://github-finder.moniemo.com)
-
 ## Available Scripts
 
 In the project directory, you can run:
